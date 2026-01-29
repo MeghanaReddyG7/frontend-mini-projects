@@ -10,10 +10,12 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background:url('./image.jpg') no-repeat;
+    background-image: url(./image.jpg);
     background-position: center;
     background-size: cover;
 }
+    
+
 
 .container{
     background:transparent;
